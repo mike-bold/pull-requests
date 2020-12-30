@@ -1,2 +1,0 @@
-This file was created on branch feature1
-added this line in remote repository
